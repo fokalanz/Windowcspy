@@ -16,7 +16,7 @@
 
 ### 方案 A：直接运行（推荐）
 1. 前往 [Releases](https://github.com/fokalanz/Windowcspy/releases/tag/windowspy) 页面。
-2. 下载最新版本的 `xxx.exe`。
+2. 下载最新版本的 `windowcspy.exe`。
 3. 双击运行即可开始捕获。
 
 ### 方案 B：源码运行
